@@ -1,0 +1,6 @@
+[submodule "trusted-partners-client"]
+	path = trusted-partners-client
+	url = https://github.com/ekabelly/trusted-partners-client.git
+[submodule "trusted-partners-api"]
+	path = trusted-partners-api
+	url = https://github.com/ekabelly/trusted-partners-api.git
