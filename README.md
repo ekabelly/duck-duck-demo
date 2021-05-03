@@ -14,5 +14,5 @@ To run the project, simply open the terminal in this directory's context and typ
 ./run.sh
 `
 
-When the process is done, open your browser on http://localhost:5000.\
+When the process is done, open your browser on http://localhost:5000. \
 Enjoy!
